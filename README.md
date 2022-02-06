@@ -39,7 +39,7 @@ The purpose of this analysis is to help predict an individual’s low or high cr
 
 ### Summary
 
-As depicted in the results section, models 1-4 compared to the resampled data models 5-6 shows that the accuracy score and recall is both low. Whereas as these scores are higher in the ensembled classifier models. Hence, it’s appropriate to recommend the use of ensemble classifiers to help predict an individual’s low or high credit risk status.
+As depicted in the results section, models 1-4 compared to the resampled data models 5-6 shows that the accuracy score, precision and recall are low. Whereas as these scores are higher in the ensembled classifier models. Hence, it’s appropriate to recommend the use of ensemble classifiers to help predict an individual’s low or high credit risk status.
 
 
 
