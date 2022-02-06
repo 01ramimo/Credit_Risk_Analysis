@@ -12,33 +12,34 @@ The purpose of this analysis is to help predict an individual’s low or high cr
 
 ### Results
 
-### •	Naive Random Oversampling Accuracy Score - balanced accuracy test is 65%
+### 1.	Naive Random Oversampling Accuracy Score - balanced accuracy test is 65%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698335-a8bf8bef-25ce-4016-b00d-7bebf37a14ca.png)
 
-### • SMOTE oversampling results - accuracy score is 66%
+### 2. SMOTE oversampling results - accuracy score is 66%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698399-b26266f1-e1e3-4344-acf1-2a9bc7faad46.png)
 
-### • Undersampling results - balanced accuracy score is 54%
+### 3. Undersampling results - balanced accuracy score is 54%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698442-10894589-873b-41d1-9d4e-d24ac4c896ba.png)
 
-### •	Combination (Over and Under) Sampling results - balanced accuracy score is 64%
+### 4.	Combination (Over and Under) Sampling results - balanced accuracy score is 64%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698477-dbbbb218-d2ee-4e85-a8af-e141ee72ebb2.png)
 
-### • Balanced Random Forest Classified - accuracy score is 77%
+### 5. Balanced Random Forest Classified - accuracy score is 77%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698878-6b4f5f7c-bd36-4973-a103-071969d0fe2a.png)
 
-### • Easy Ensemble AdaBoost Classified - accuracy score is 92%
+### 6. Easy Ensemble AdaBoost Classified - accuracy score is 92%
 
 ![image](https://user-images.githubusercontent.com/89875689/152698993-ab54f6a2-f655-4147-b10d-d9c95b9f7e7d.png)
 
 
 ### Summary
 
+As depicted in the results section, models 1-4 compared to the resampled data models 5-6 shows that the accuracy score and recall is both low. Whereas as these scores are higher in the ensembled classifier models. Hence, it’s appropriate to recommend the use of ensemble classifiers to help predict an individual’s low or high credit risk status.
 
 
 
