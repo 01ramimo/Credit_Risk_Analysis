@@ -12,21 +12,19 @@ The purpose of this analysis is to help predict an individual’s low or high cr
 
 ### Results
 
-•	Naive Random Oversampling Accuracy Score
+•	Naive Random Oversampling Accuracy Score:
 
-![image](https://user-images.githubusercontent.com/89875689/152697940-5f976b31-cf49-40c8-aa5e-1a294ee5ded8.png)
-
+![image](https://user-images.githubusercontent.com/89875689/152698335-a8bf8bef-25ce-4016-b00d-7bebf37a14ca.png)
 
 • SMOTE oversampling results:
 
-![image](https://user-images.githubusercontent.com/89875689/152698019-127c3e27-52a4-47e0-8068-15ac7b971e2f.png)
-
+![image](https://user-images.githubusercontent.com/89875689/152698399-b26266f1-e1e3-4344-acf1-2a9bc7faad46.png)
 
 • Undersampling results:
 
-![image](https://user-images.githubusercontent.com/89875689/152698067-87c62db7-2f51-4689-a6b0-20f8742948d8.png)
+![image](https://user-images.githubusercontent.com/89875689/152698442-10894589-873b-41d1-9d4e-d24ac4c896ba.png)
 
+•	Combination (Over and Under) Sampling results:
 
-•	Combination (Over and Under) Sampling results
+![image](https://user-images.githubusercontent.com/89875689/152698477-dbbbb218-d2ee-4e85-a8af-e141ee72ebb2.png)
 
-![image](https://user-images.githubusercontent.com/89875689/152698220-5c176f36-e381-483f-b363-4dc4e68c0ef9.png)
